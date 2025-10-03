@@ -1,0 +1,24 @@
+{
+  "name": "attendance-register",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "crawl": "node --env-file=.env crawl_data/index.js",
+    "refresh": "node --env-file=.env refresh_tools/index.js",
+    "calc": "node --env-file=.env process_data/index.js",
+    "test": "node --env-file=.env process_data/testing.js",
+    "calc-optimize": "node --env-file=.env process_data/optimize.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "chalk": "^5.4.1",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.5.0",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
