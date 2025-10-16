@@ -62,7 +62,7 @@ async function cal_total_hours_per_student(course_id, user_id) {
 
 async function script() {
   const exportDir = './export';
-  const fileName = `${exportDir}/T${MONTH}_REPORT.csv`;
+  const fileName = `${exportDir}/TEST_T${MONTH}_REPORT.csv`;
 
   // Ensure the export directory exists
   try {

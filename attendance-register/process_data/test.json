@@ -1,18 +1,18 @@
 [
-    {
-    "PROGRAM": "SEEDS Univ",
-    "PALS_ID": "QN19P0561",
-    "FULLNAME": "CAO THẢO VY",
-    "EMAIL": "Hoacao181@gmail.com",
-    "USER_ID": 2710,
+  {
+    "PROGRAM": "SEEDS",
+    "PALS_ID": "QT19P0230",
+    "FULLNAME": "NGUYỄN QUANG HUY",
+    "EMAIL": "nguyenquanghuy2608qt@gmail.com",
+    "USER_ID": 5474,
     "CHECKED": false
   },
-    {
-    "PROGRAM": "SEEDS Univ",
-    "PALS_ID": "DN18P0276",
-    "FULLNAME": "NGUYỄN TRUNG LƯƠNG",
-    "EMAIL": "nguyentrungluong2504@gmail.com",
-    "USER_ID": 5093,
-    "CHECKED": true
+  {
+    "PROGRAM": "SEEDS",
+    "PALS_ID": "PY21P0002",
+    "FULLNAME": "NGUYỄN THỊ THU THOA",
+    "EMAIL": "thoanguyen8840@gmail.com",
+    "USER_ID": 6708,
+    "CHECKED": false
   }
 ]
