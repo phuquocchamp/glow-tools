@@ -3,7 +3,7 @@ import * as cheerio from "cheerio";
 import fs from "fs/promises";
 import { Parser } from "json2csv";
 import course_data from "../course_data.json" with { type: "json" };
-import student_data from "./base_data.json" with { type: "json" };
+import student_data from "./test.json" with { type: "json" };
 import chalk from "chalk";
 
 const MOODLE_SESSION = process.env.MOODLE_SESSION;
